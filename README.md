@@ -1,4 +1,5 @@
-### Hi there 👋
+## Agung Krisnayana ![Ponyta by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif) ![Rayquaza by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif)
+Hello👋, I'm **Agung**. I'm an 21-year-old from Bali and I'm currently an IT student at Udayana University.
 
 <!--
 **gungdekrisna/gungdekrisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
