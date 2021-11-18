@@ -1,4 +1,5 @@
-## Agung Krisnayana ![Ponyta by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif) ![Rayquaza by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif)
+![Ponyta by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif) ![Rayquaza by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif) ![Sonansu by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/202.gif)
+# Agung Krisnayana 
 Hello👋, I'm **Agung**. I'm an 21-year-old from Bali and I'm currently an IT student at Udayana University.
 
 <!--
