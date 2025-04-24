@@ -1,6 +1,6 @@
 ![Ponyta by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif) ![Rayquaza by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif) ![Sonansu by PokeAPI](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/202.gif)
 # Dalem Krisnayana 
-
+Hello👋, I'm **Dalem**. I'm a 24-year-old from Bali, and I'm currently a Software Developer at Bali Digital Hub.
 <!--
 **gungdekrisna/gungdekrisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
